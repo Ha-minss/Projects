@@ -1,0 +1,21 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+
+# local raw data
+data/raw/
+*.csv
+*.parquet
+*.feather
+
+# outputs
+results/*.png
+results/*.jpg
+results/*.pdf
