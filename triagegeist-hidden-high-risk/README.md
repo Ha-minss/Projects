@@ -157,4 +157,4 @@ A polished project description version is included in [`docs/project_writeup.md`
 
 ## License
 
-This repository is released under the MIT License. Competition data remains subject to Kaggle competition terms and is not redistributed here.
+Competition data remains subject to Kaggle competition terms and is not redistributed here.
