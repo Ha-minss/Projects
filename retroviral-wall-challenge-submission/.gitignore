@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Official competition data / large inputs
+train.csv
+test.csv
+rt_sequences.csv
+handcrafted_features.csv
+esm2_embeddings.npz
+structures/
+feature_dictionary.csv
+family_splits.csv
+
+# Intermediate diagnostic outputs
+*_diagnostic_scores.csv
+*_summary.csv
+*_comparison.csv
+*_folds.csv
+*_candidates.csv
+*_results.csv
+*_performance.csv
+*_search.csv
