@@ -107,7 +107,7 @@ For Phase 2, the modeling approach can be extracted as:
 The code is organized so the feature engineering, model scoring, and LOFO validation steps are clearly separated.
 
 ```markdown
-For Phase 2 extraction details, see [`phase2_extraction_note.md`](phase2_extraction_note.md).
+For Phase 2 extraction details, see [`phase2_extraction_note.md`].
 ```
 
 ## Competition Data
